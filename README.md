@@ -65,7 +65,12 @@ Here are some images showcasing the project and its components:
 ![IR Sensor in Action](![IR sensor](https://github.com/user-attachments/assets/3b3d39e0-0d58-4ccc-bdd2-fbb64ef3c01f))  
 *IR sensor detecting motion.*
 
-![ThingSpeak Web Interface](![ThingSpeak](https://github.com/user-attachments/assets/5c7c786b-a391-4702-835d-7b904637c6be))  
+![ThingSpeak Plot](![LDR   IR PLot](https://github.com/user-attachments/assets/573ce14f-b41b-4a47-9723-4e5e4342a160)
+)  
+*Plot Of 3 IR sensor.*
+
+![ThingSpeak Web Interface](![Web Interface Of Led   IR](https://github.com/user-attachments/assets/2fa3eb95-9780-4e01-8003-5fd9f3d742f1)
+)  
 *Web interface displaying data from the street light system.*
 
 ---
