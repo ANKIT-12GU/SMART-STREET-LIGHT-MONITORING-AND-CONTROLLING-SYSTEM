@@ -55,6 +55,21 @@ This project presents an **IoT-powered Smart Street Lighting System** designed t
 
 ---
 
+## Photos
+
+Here are some images showcasing the project and its components:
+
+![Street Light System Overview](![street light](https://github.com/user-attachments/assets/73e0f6ba-9264-41e6-937b-ce9d0d29bdee))  
+*Overview of the Smart Street Light System.*
+
+![IR Sensor in Action](![IR sensor](https://github.com/user-attachments/assets/3b3d39e0-0d58-4ccc-bdd2-fbb64ef3c01f))  
+*IR sensor detecting motion.*
+
+![ThingSpeak Web Interface](![ThingSpeak](https://github.com/user-attachments/assets/5c7c786b-a391-4702-835d-7b904637c6be))  
+*Web interface displaying data from the street light system.*
+
+---
+
 ## Features
 
 - **Energy Efficient:** The system ensures streetlights only turn on when necessary, reducing unnecessary energy consumption.
